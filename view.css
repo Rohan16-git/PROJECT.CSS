@@ -1,5 +1,19 @@
-.navbar{
+.navdiv{
+
     display: flex;
     padding: 10px;
-    width: 50px;
+    justify-content: space-between;
+    width: 80%;
+    height: 50px;
+}
+
+.logo{
+
+}
+
+.ITEM{
+    font-size: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
